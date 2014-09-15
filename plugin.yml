@@ -1,0 +1,11 @@
+name: XephGods
+main: com.instancedev.xephgods.Main
+version: 1.0
+author: instancelabs
+softdepend: [Vault]
+commands:
+   xeph:
+      description: Main command
+      usage: /xeph <action>
+      aliases: [xephgods, gods]
+
